@@ -1,0 +1,20 @@
+*.class
+.DS_Store
+
+# Package Files
+*.jar
+*.war
+
+# Eclipse files
+*.jpage
+.settings
+.project
+.classpath
+bin/
+
+# Maven
+target/
+
+# Log files
+*.log
+
